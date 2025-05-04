@@ -42,14 +42,14 @@ sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 class Config:
     def __init__(self):
         # Основные настройки
-        self.token = "7664801128:AAFlmmJXmVnI6MwlakJRz7zquXNfTI3jbQQ"
+        self.token = "ваш токен бота"
         self.data_folder = "database"
         self.backup_folder = "backups"
         self.reports_folder = "reports"
         self.support_folder = "support_tickets"
-        self.admin_id = [6674236510]
+        self.admin_id = [ваш тг айди]
         self.vip_users = []
-        self.bot_username = "@DelmetabyqventisBot"
+        self.bot_username = "юзернейм вашего бота"
         
         # Лимиты
         self.daily_limit = {
