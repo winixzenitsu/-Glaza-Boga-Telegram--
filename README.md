@@ -43,7 +43,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/glaza-boga-bot.git
+   git clone https://github.com/winixzenitsu/glaza-boga-bot.git
    cd glaza-boga-bot
    ```
 
